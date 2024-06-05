@@ -690,6 +690,10 @@ section {
     margin-bottom: 8px;
 }
 
+.modal-field-bottom {
+    margin-bottom: 16px;
+}
+
 .modal-input {
     width: 100%;
     height: 40px;
