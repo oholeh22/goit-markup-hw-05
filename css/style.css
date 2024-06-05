@@ -687,7 +687,7 @@ section {
 }
 
 .modal-field {
-    margin-bottom: 16px;
+    margin-bottom: 8px;
 }
 
 .modal-input {
@@ -736,7 +736,7 @@ section {
 
 .modal-field-wrap {
     position: relative;
-    margin-bottom: 8px;
+    margin-bottom: 16px;
 }
 
 .modal-icon {
